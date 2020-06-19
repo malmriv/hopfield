@@ -1,5 +1,5 @@
 c   DESCRIPTION. This is an implementation of a Hopfield network. This file includes a module
-c   dedicated to generating random numbers and the actual progrma (at line 100).
+c   dedicated to generating random numbers and the actual program (at line 100).
 
       module randomnumber
       integer*8::ip,iq,is,np,nbit,ic
